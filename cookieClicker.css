@@ -1,0 +1,14 @@
+.game-container {
+    text-align: center;
+    padding: 50px;
+}
+
+#cookie {
+    width: 200px;
+    cursor: pointer;
+}
+
+#counter, #perSecond {
+    margin-top: 20px;
+    font-size: 24px;
+}
